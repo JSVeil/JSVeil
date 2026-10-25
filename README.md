@@ -9,7 +9,7 @@
 
 **Free JavaScript Obfuscator · JavaScript VM Obfuscation**
 
-**[Try it online →](https://jsveil.com/)**
+<h2><a href="https://jsveil.com/">Try it online →</a></h2>
 
 [![JSVeil preview](assets/jsveil-preview.png)](https://jsveil.com/)
 
