@@ -1,6 +1,11 @@
 <div align="center">
 
-# JSVeil
+<a href="https://jsveil.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/jsveil-logo-light.svg">
+    <img src="assets/jsveil-logo.svg" alt="JSVeil" width="222" height="64">
+  </picture>
+</a>
 
 **Free JavaScript Obfuscator · JavaScript VM Obfuscation**
 
