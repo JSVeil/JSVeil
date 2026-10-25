@@ -11,6 +11,8 @@
 
 **[Try it online →](https://jsveil.com/)**
 
+[![JSVeil preview](assets/jsveil-preview.png)](https://jsveil.com/)
+
 </div>
 
 JSVeil is a free online JavaScript obfuscator that uses **virtual-machine obfuscation** to make your code harder to understand, reproduce and tamper with.
